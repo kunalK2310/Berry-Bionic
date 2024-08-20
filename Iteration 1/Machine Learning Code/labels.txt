@@ -1,0 +1,4 @@
+Flower
+Healthy
+Stem
+Unhealthy
